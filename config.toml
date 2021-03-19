@@ -6,7 +6,7 @@ languageCode = "zh-CN"
 # 是否包括中日韩文字
 hasCJKLanguage = true
 # 网站标题
-title = "ZXY"
+title = "ZXY'S BLOG"
 
 # 更改使用 Hugo 构建网站时使用的默认主题
 theme = "LoveIt"
@@ -30,7 +30,7 @@ fingerprint = ""
 #  日期格式
 dateFormat = "2006-01-02"
 # 网站图片, 用于 Open Graph 和 Twitter Cards
-images = [""]
+images = ["https://portrait.gitee.com/uploads/avatars/user/2919/8759051_zhou_zz_1615168989.png!avatar200"]
 
 #  应用图标配置
 [params.app]
@@ -39,7 +39,7 @@ title = "ZXY'S BLOG"
 # 是否隐藏网站图标资源链接
 noFavicon = false
 # 更现代的 SVG 网站图标, 可替代旧的 .png 和 .ico 文件
-svgFavicon = ""
+svgFavicon = "https://portrait.gitee.com/uploads/avatars/user/2919/8759051_zhou_zz_1615168989.png!avatar200"
 # Android 浏览器主题色
 themeColor = "#ffffff"
 # Safari 图标颜色
@@ -78,7 +78,7 @@ mobileMode = "auto"
 #  页面头部导航栏标题配置
 [params.header.title]
 # LOGO 的 URL
-logo = "https://portrait.gitee.com/uploads/avatars/user/2919/8759051_zhou_zz_1615168989.png!avatar200"
+logo = ""
 # 标题名称
 name = "cd /home/😎"
 # 你可以在名称 (允许 HTML 格式) 之前添加其他信息, 例如图标
@@ -328,10 +328,9 @@ shortname = ""
 #
 enable = true
 owner = "1119864054"
-repo = "https://github.com/1119864054/blog-comment"
+repo = "blog-comment"
 clientId = "66b49e2a3b34f9346e0a"
 clientSecret = "57d6774c3649a8f16b1c130b3d3dded7774b57b8"
-admin = ["1119864054"]
 # Valine 评论系统设置
 [params.page.comment.valine]
 enable = false
