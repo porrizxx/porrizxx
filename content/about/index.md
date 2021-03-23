@@ -4,7 +4,7 @@ title: "关于我"
 
 {{< music server="tencent" type="song" id="002Cm7Or0B08z8" >}}
 
-## 博主相关 <img src="https://portrait.gitee.com/uploads/avatars/user/2919/8759051_zhou_zz_1615168989.png!avatar200" align='right' style="height:100px"/>
+## 博主相关 <img src="/img/logo.png" align='right' style="height:100px"/>
 
 ###### :grinning:19年毕业 目前在上海工作
 

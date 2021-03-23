@@ -30,7 +30,7 @@ fingerprint = ""
 #  日期格式
 dateFormat = "2006-01-02"
 # 网站图片, 用于 Open Graph 和 Twitter Cards
-images = ["https://portrait.gitee.com/uploads/avatars/user/2919/8759051_zhou_zz_1615168989.png!avatar200"]
+images = ["/img/logo.png"]
 
 #  应用图标配置
 [params.app]
@@ -39,7 +39,7 @@ title = "ZXY'S BLOG"
 # 是否隐藏网站图标资源链接
 noFavicon = false
 # 更现代的 SVG 网站图标, 可替代旧的 .png 和 .ico 文件
-svgFavicon = "https://portrait.gitee.com/uploads/avatars/user/2919/8759051_zhou_zz_1615168989.png!avatar200"
+svgFavicon = "/img/logo.png"
 # Android 浏览器主题色
 themeColor = "#ffffff"
 # Safari 图标颜色
