@@ -326,7 +326,7 @@ shortname = ""
 # Gitalk 评论系统设置
 [params.page.comment.gitalk]
 #
-enable = true
+enable = false
 owner = "1119864054"
 repo = "blog-comment"
 clientId = "66b49e2a3b34f9346e0a"
@@ -375,9 +375,9 @@ outlined = false
 enable = false
 #  Utterances 评论系统设置
 [params.page.comment.utterances]
-enable = false
+enable = true
 # owner/repo
-repo = ""
+repo = "1119864054/blog-comment"
 issueTerm = "pathname"
 label = ""
 lightTheme = "github-light"
