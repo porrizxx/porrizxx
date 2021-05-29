@@ -5,6 +5,10 @@ draft: false
 slug: first-post
 ---
 
-## MY First Bolg
+## MY First Blog
 
-test
+### 网站构成
+
+- Hugo
+- Vercel
+- Namesilo
